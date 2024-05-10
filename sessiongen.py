@@ -1,5 +1,5 @@
 import os
-from time import sleep
+from time import sleep 
 
 def spinner(x):
     if x == "tele":
