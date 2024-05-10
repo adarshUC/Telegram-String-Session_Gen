@@ -9,5 +9,5 @@ def genStrSession():
         app.send_message(
             "me", f"#STRING_SESSION by @NoobAadarsh\n\n```{app.export_session_string()}```"
         )
-        print("Done !, session string has been sent to saved messages!")
+        print("Done !,your pyrogram session string has been sent to saved messages!")
 genStrSession()
