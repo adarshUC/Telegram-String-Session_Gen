@@ -1,4 +1,4 @@
-**FOR YOU**:***WANT TO GENERATE IN JUST 2min? USE THIS!!* https://colab.research.google.com/drive/1ar_au9-k_vfLwMJrJJoDQVM_g1tWRDaj
+**FOR YOU**: *WANT TO GENERATE IN JUST 2min? USE THIS!!* https://colab.research.google.com/drive/1ar_au9-k_vfLwMJrJJoDQVM_g1tWRDaj
 
 
 
