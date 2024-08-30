@@ -1,4 +1,8 @@
-# Obtaining api_id
+**FOR YOU**:***WANT TO GENERATE IN JUST 2min? USE THIS!!* https://colab.research.google.com/drive/1ar_au9-k_vfLwMJrJJoDQVM_g1tWRDaj
+
+
+
+#  Obtaining api_id
 In order to obtain an API id and develop your own application using the Telegram API you need to do the following:
 
 1. Sign up for Telegram using any application.
