@@ -5,10 +5,9 @@
 #  Obtaining api_id
 To obtain an API ID using the Telegram API you need to do the following:
 
-1. Sign up for Telegram using any application.
-2. Log in to your Telegram core: https://my.telegram.org/apps.
-3. Now you are in "API development tools" so fill out the form.
-4. You will get basic addresses as well as the api_id and api_hash parameters required for user authorization.
+1. Log in to your Telegram core: https://my.telegram.org/apps.
+2. Now you are in "API development tools" so fill out the form(with random details).
+3. You will get basic addresses and the api_id and api_hash parameters required for user authorization.
 
 # Using the api_id
 
