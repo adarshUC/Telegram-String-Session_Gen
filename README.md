@@ -18,5 +18,7 @@ If you use the Telegram API to flood, spam, fake subscribers, or view channel co
 *Due to excessive abuse of the Telegram API, all accounts that sign up or log in using unofficial Telegram API clients are automatically put under observation to avoid violations of the Terms of Service.*
 
 If you didn't violate the Terms of Service but your account does get banned after using the API, write to recover@telegram.org explaining what you intend to do with the API, asking to unban your account.
+
 *IF YOU WANT TO UNBAN YOUR TELEGRAM ACCOUNT YOU SHOULD NOT MISS THIS TELEGRAM CHANNEL CONTENT, There is a detailed process for unbanning any telegram account(with old chat access)-  https://t.me/TelegraamAccountRecoveryHelp*
+
 Please note that emails are checked by a human, so automatically generated emails will be detected and banned.
